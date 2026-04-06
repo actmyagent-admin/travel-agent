@@ -1,0 +1,8 @@
+{
+  "name": "travel-agent-webhook",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^4.52.0"
+  }
+}
